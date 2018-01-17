@@ -1,0 +1,15 @@
+.successdiv{
+  text-align: center;
+  width: 60%;
+  border: 6px solid #c0c0c0;
+  margin: 1em auto;
+  padding: 1em;
+  border-radius: 25px;
+  color: #39ff14;
+  background-color: #232b2b;
+}
+.successtext{
+  font-family: 'Warnes';font-size: 22px;
+  text-shadow: 0 0 10px #1fc700;
+  font-size: 6em;
+}
